@@ -31,7 +31,8 @@
 
 ### DICAS E RECURSOS
 
-Nesse repositorio contêm um projeto Default. basta configurar o DataSource no arquivo de configuração do servidor de aplicação ```wildfly-15.0.1.Final\standalone\configuration\standalone.xml```
+Nesse repositorio contêm um projeto Default. 
+para iniciar basta adicionar o driver do mysql no wildfly e configurar o DataSource no arquivo de configuração do servidor de aplicação ```wildfly-15.0.1.Final\standalone\configuration\standalone.xml```
 Exemplo:
 ```
 <datasource jta="true" jndi-name="java:jboss/datasources/Connection-DS" pool-name="Connection" enabled="true" use-ccm="false">
