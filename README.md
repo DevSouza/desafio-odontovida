@@ -43,7 +43,7 @@ Exemplo:
 ### techs
 - **IDE**: [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/2020-06/r/eclipse-ide-enterprise-java-developers)
 - **Linguagem**: [Java 1.8](https://www.oracle.com/java/technologies/java-se-glance.html)
-- **Banco de Dados**: [MariaDB](https://mariadb.org/)
+- **Banco de Dados**: [MariaDB 5.5.41](https://mariadb.org/)
 - **ORM**: [hibernate 5.2.4.Final](https://hibernate.org/orm/)
 - **Biblioteca de Componentes**: [Primefaces 6.0](https://www.primefaces.org/showcase/)
 - **Servidor de Aplicação**: [Wildfly 15](https://www.wildfly.org/)
