@@ -51,4 +51,8 @@ Exemplo:
 </datasource>
 ```
 
-
+```
+  <driver name="mysql" module="com.mysql">
+    <xa-datasource-class>com.mysql.jdbc.jdbc2.optional.MysqlXADataSource</xa-datasource-class>
+  </driver>
+```
